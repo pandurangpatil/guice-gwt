@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view
+END
+PersonCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view/PersonCell.java
+END
+AddressDetView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view/AddressDetView.java
+END
+PersonListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view/PersonListView.java
+END
+PersonCellTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view/PersonCellTable.java
+END
+PersonDetView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/client/view/PersonDetView.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8/trunk/guicegwt/src/test/java/open/pp/sample/guicegwt/server/injector
+END
+WithModules.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/guicegwt/src/test/java/open/pp/sample/guicegwt/server/injector/WithModules.java
+END
+TestAddressPersistModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/8/trunk/guicegwt/src/test/java/open/pp/sample/guicegwt/server/injector/TestAddressPersistModule.java
+END
+GuiceTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/guicegwt/src/test/java/open/pp/sample/guicegwt/server/injector/GuiceTestRunner.java
+END
+TestUserPersistModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/guicegwt/src/test/java/open/pp/sample/guicegwt/server/injector/TestUserPersistModule.java
+END

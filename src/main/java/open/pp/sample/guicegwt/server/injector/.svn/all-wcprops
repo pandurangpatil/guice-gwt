@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector
+END
+AddressPersistenceLifeCycleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/AddressPersistenceLifeCycleManager.java
+END
+AddressPersistModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/AddressPersistModule.java
+END
+AddressPersistFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/AddressPersistFilter.java
+END
+TestUserPersistenceInitilizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/TestUserPersistenceInitilizer.java
+END
+UserPersistService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/UserPersistService.java
+END
+SampleServletContextListner.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/SampleServletContextListner.java
+END
+SampleServletModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/11/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/SampleServletModule.java
+END
+TestAddressPersistenceInitilizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/TestAddressPersistenceInitilizer.java
+END
+UserPersistenceLifeCycleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/UserPersistenceLifeCycleManager.java
+END
+UserPersistModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/UserPersistModule.java
+END
+UserPersistFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/UserPersistFilter.java
+END
+PersistenceLifeCycleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/PersistenceLifeCycleManager.java
+END
+AddressPersistService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/injector/AddressPersistService.java
+END

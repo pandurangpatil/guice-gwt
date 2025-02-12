@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity
+END
+UserEntityLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/UserEntityLocator.java
+END
+AddressBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/AddressBase.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/Address.java
+END
+AddressEntityLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/12/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/AddressEntityLocator.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/Person.java
+END
+UserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/guicegwt/src/main/java/open/pp/sample/guicegwt/server/entity/UserBase.java
+END
